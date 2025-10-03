@@ -95,5 +95,3 @@ tfidf_vectorizer.pkl – TF-IDF vectorizer
 Logistic Regression accuracy: ~79%
 
 Naive Bayes accuracy: ~77%
-
-MLP Neural Network: optional, slower to train, similar performance.
